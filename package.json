@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "bin": {
+    "create-backend-app": "./bin/create-backend-app.js"
+  },
   "dependencies": {
     "inquirer": "^8.2.7"
   }
